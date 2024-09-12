@@ -14,7 +14,7 @@ container_status=$?
 
 # user switch case to handle create/stop/start options
 case $cmd in
-  create) 
+  create)
 
     # check if the container is already created
     if [ $container_status -eq 0 ]; then
