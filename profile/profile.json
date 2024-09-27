@@ -1,0 +1,85 @@
+{
+  "education": [
+    {
+      "awards_achievements": null,
+      "degree": "Bachelor of Science (Honours)",
+      "department": "Financial Mathematics",
+      "duration": "2019-2024",
+      "school_name": "Toronto Metropolitan University"
+    },
+    {
+      "awards_achievements": null,
+      "degree": "CFA Candidate",
+      "department": "Level 1",
+      "duration": "2024-present",
+      "school_name": "CFA Institute"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_RyanBabin",
+  "highlighted_projects": [
+    {
+      "description": "Collaborated with a team of classmates to create and manage a simulated $1,000,000 investment portfolio over a four-month period, tracking real-time market data and performance. Conducted in-depth financial analysis using quantitative methods to assess potential investments across various asset classes, including equities, bonds, and derivatives. Utilized risk management techniques and financial modeling tools in Excel and Python to optimize asset allocation and minimize volatility.",
+      "name": "Investment Portfolio Simulation"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Analyzed business requirements to define the scope and objectives of the project, ensuring alignment with operational needs. Developed a resource monitoring tool using Bash and SQL to collect and analyze cluster resource usage data in real-time, using crontab for scheduled execution. Docker was used for deployment, and PostgreSQL was implemented for data storage and analytics. Used Agile methodology to manage project timelines and ensure effective communication.",
+      "git_url": "https://github.com/jarviscanada/jarvis_data_eng_RyanBabin/tree/main/linux_sql",
+      "name": "Linux Cluster Resource Monitoring App"
+    }
+  ],
+  "name": "Ryan Babin",
+  "others": [
+    {
+      "bullets": [
+        "CASI - Level 1 Snowboard Instructor (2020)"
+      ],
+      "title": "Certificates"
+    },
+    {
+      "bullets": [
+        "20th Century Fantasy/Sci-Fi Literature",
+        "Gardening"
+      ],
+      "title": "Activities/Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Worked collaboratively in a Scrum environment on multiple projects, including developing SQL-based data models, automating reports, and engaging in data analytics using Python. Leveraged tools such as RDBMS, PySpark, and Agile methodologies to optimize workflows and enhance project efficiency.",
+      "duration": "2024-present",
+      "title": "Technical Consultant"
+    },
+    {
+      "company": "Hockey Hall of Fame",
+      "description": "Cultivated long-term customer relationships, trained and mentored junior staff to drive growth and customer satisfaction, collaborated with cross-functional teams to optimize inventory management and product displays, and conducted values training to foster company values and integrated behaviours into daily work tasks.",
+      "duration": "2022-present",
+      "title": "Sales Associate"
+    },
+    {
+      "company": "Dulux Paint",
+      "description": "Engaged potential customers to understand their needs and provide solutions to achieve optimal results. Managed extensive challenging customer inquires to reach satisfactory resolutions successfully and received employee recognition for contribution to department achievements and fostering teamwork.",
+      "duration": "2021-2022",
+      "title": "Sales Associate"
+    }
+  ],
+  "skills": {
+    "Business Skills": [
+      "Communication \u0026 Collaboration",
+      "Data Analysis \u0026 Reporting",
+      "Agile/Scrum Methodologies",
+      "Problem-Solving \u0026 Critical Thinking",
+      "Excel (Advanced Functions, Pivot Tables, Data Analysis)"
+    ],
+    "Technical Skills": [
+      "RDBMS/SQL",
+      "Data Modeling/Mapping",
+      "Data Analytics",
+      "Matlab",
+      "R"
+    ]
+  },
+  "summary": "I am a detail-oriented graduate with a Bachelor of Science in Financial Mathematics from Toronto Metropolitan University, passionate about leveraging data and technology to solve business challenges. With strong proficiency in SQL, Python, and R, I have a solid foundation in data analysis, process optimization, and system integration. My experience in cross-functional collaboration and customer-focused roles has honed my communication and problem-solving skills, which are essential for gathering and translating business requirements into technical solutions. I am eager to apply my analytical and technical expertise in a Business Systems Analyst role, helping organizations streamline operations and drive strategic decisions."
+}
