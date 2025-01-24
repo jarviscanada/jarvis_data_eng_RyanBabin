@@ -1,0 +1,106 @@
+# Preferred name (Characters only)
+name: "Ryan Babin"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_RyanBabin
+
+# Introduce yourself (80-120 words)
+# Suggestions: you should 
+# 1) describe your academic and work experience (please focus on transferable/job related tech and soft skills only)
+# 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
+# 3) mention what kind of role you are looking for
+# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
+summary: I am a detail-oriented graduate with a Bachelor of Science in Financial Mathematics from Toronto Metropolitan University, passionate about leveraging data and technology to solve business challenges. With strong proficiency in SQL, Python, and R, I have a solid foundation in data analysis, process optimization, and system integration. My experience in cross-functional collaboration and customer-focused roles has honed my communication and problem-solving skills, which are essential for gathering and translating business requirements into technical solutions. I am eager to apply my analytical and technical expertise in a Business Systems Analyst role, helping organizations streamline operations and drive strategic decisions.
+
+skills:
+  # Please include 
+  #     1)soft skills (e.g. elicitation, communication, collaberation, interpersonal, etc ) 
+  #     2) business tools (such as Excel, Viso, etc.)
+  Business Skills:
+    - Communication & Collaboration
+    - Data Analysis & Reporting
+    - Agile/Scrum Methodologies
+    - Problem-Solving & Critical Thinking
+    - Excel (Advanced Functions, Pivot Tables, Data Analysis)
+  # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
+  # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
+  Technical Skills:
+    - RDBMS/SQL
+    - Data Modeling/Mapping
+    - Data Analytics
+    - Matlab
+    - R
+
+# List of Jarvis projects
+# Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
+jarvis_projects:
+  - name: "Linux Cluster Resource Monitoring App"
+    git_url: "https://github.com/jarviscanada/jarvis_data_eng_RyanBabin/tree/main/linux_sql"
+    # Focus on BSA work instead of development work
+    # Include the following keywords: BRD, SRD, Elicitation, stakeholder, reqruiement, analysis, RDBMS, SQL, data modeling, SLA
+    description: Analyzed business requirements to define the scope and objectives of the project, ensuring alignment with operational needs. Developed a resource monitoring tool using Bash and SQL to collect and analyze cluster resource usage data in real-time, using crontab for scheduled execution. Docker was used for deployment, and PostgreSQL was implemented for data storage and analytics. Used Agile methodology to manage project timelines and ensure effective communication.
+      # - name: "Python Data Analytics"
+      # git_url: "/python_data_anlytics"
+    # Focus on BSA work instead of development work
+    # e.g. solve business problem, requirement, data sources, analytics, stakeholders, documentation
+    # description: ""
+    # - name: "Hadoop"
+    # git_url: "/hadoop"
+    # description: ""
+
+# List of personal or academic projects
+# Please focus on transferable skills, such as soft skills and data related skills
+highlighted_projects:
+    #project name
+  - name: "Investment Portfolio Simulation"
+    #URL is optional
+    #git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Collaborated with a team of classmates to create and manage a simulated $1,000,000 investment portfolio over a four-month period, tracking real-time market data and performance. Conducted in-depth financial analysis using quantitative methods to assess potential investments across various asset classes, including equities, bonds, and derivatives. Utilized risk management techniques and financial modeling tools in Excel and Python to optimize asset allocation and minimize volatility."   
+    # - name: "Machine Learning"
+    # git_url:
+    # description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+
+# List of professional experience
+# Please focus on transferable skills, such as soft skills and data related skills
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Technical Consultant"
+    company: "Jarvis"
+    duration: "2024-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
+    description: "Worked collaboratively in a Scrum environment on multiple projects, including developing SQL-based data models, automating reports, and engaging in data analytics using Python. Leveraged tools such as RDBMS, PySpark, and Agile methodologies to optimize workflows and enhance project efficiency."
+  - title: "Sales Associate"
+    company: "Hockey Hall of Fame"
+    duration: "2022-present"
+    description: "Cultivated long-term customer relationships, trained and mentored junior staff to drive growth and customer satisfaction, collaborated with cross-functional teams to optimize inventory management and product displays, and conducted values training to foster company values and integrated behaviours into daily work tasks."
+  - title: "Sales Associate"
+    company: "Dulux Paint"
+    duration: "2021-2022"
+    description: "Engaged potential customers to understand their needs and provide solutions to achieve optimal results. Managed extensive challenging customer inquires to reach satisfactory resolutions successfully and received employee recognition for contribution to department achievements and fostering teamwork."
+
+
+#List of edcuation
+education: 
+  - school_name: "Toronto Metropolitan University"
+    duration: "2019-2024"
+    degree: "Bachelor of Science (Honours)"
+    department: "Financial Mathematics"
+    awards_achievements: 
+  - school_name: "CFA Institute"
+    duration: "2024-present"
+    degree: "CFA Candidate"
+    department: "Level 1"
+    awards_achievements: 
+
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "CASI - Level 1 Snowboard Instructor (2020)"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "20th Century Fantasy/Sci-Fi Literature"
+      - "Gardening"      
