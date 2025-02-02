@@ -26,24 +26,23 @@ skills:
   Technical Skills:
     - RDBMS/SQL
     - Data Modeling/Mapping
-    - Data Analytics
-    - Matlab
-    - R
+    - Python Data Analytics
+    - Linux
+    - Docker
 
 # List of Jarvis projects
 # Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
 jarvis_projects:
   - name: "Linux Cluster Resource Monitoring App"
-    git_url: "https://github.com/jarviscanada/jarvis_data_eng_RyanBabin/tree/main/linux_sql"
+    git_url: "/linux_sql"
     # Focus on BSA work instead of development work
     # Include the following keywords: BRD, SRD, Elicitation, stakeholder, reqruiement, analysis, RDBMS, SQL, data modeling, SLA
-    description: Analyzed business requirements to define the scope and objectives of the project, ensuring alignment with operational needs. Developed a resource monitoring tool using Bash and SQL to collect and analyze cluster resource usage data in real-time, using crontab for scheduled execution. Docker was used for deployment, and PostgreSQL was implemented for data storage and analytics. Used Agile methodology to manage project timelines and ensure effective communication.
-      # - name: "Python Data Analytics"
-      # git_url: "/python_data_anlytics"
+    description: Analyzed business requirements to define the scope and objectives of the project, ensuring alignment with operational needs. Developed a resource monitoring tool using Bash and SQL to collect and analyze cluster resource usage data in real-time, scheduled automated execution with crontab. Docker was used for deployment, and PostgreSQL was implemented for data storage and analytics. Used Agile methodology to manage project timelines and ensure effective communication.
+  - name: "Python Data Analytics"
+    git_url: "/python_data_anlytics"
     # Focus on BSA work instead of development work
     # e.g. solve business problem, requirement, data sources, analytics, stakeholders, documentation
-    # description: ""
-    # - name: "Hadoop"
+    description: Conducted business analysis to identify key challenges in customer retention and revenue growth for London Gift Shop (LGS). Utilized SQL and Python to analyze customer transaction data, deriving actionable insights for marketing strategy improvements. Documented findings and recommendations in reports, aiding stakeholders in data-driven decision-making.    # - name: "Hadoop"
     # git_url: "/hadoop"
     # description: ""
 
@@ -69,7 +68,7 @@ professional_experience:
     duration: "2024-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
-    description: "Worked collaboratively in a Scrum environment on multiple projects, including developing SQL-based data models, automating reports, and engaging in data analytics using Python. Leveraged tools such as RDBMS, PySpark, and Agile methodologies to optimize workflows and enhance project efficiency."
+    description: "Works collaboratively in a Scrum environment on multiple projects, including developing SQL-based data models, automating reports, and engaging in data analytics using Python. Leverages tools such as RDBMS, PySpark, and Agile methodologies to optimize workflows and enhance project efficiency."
   - title: "Sales Associate"
     company: "Hockey Hall of Fame"
     duration: "2022-present"
@@ -88,7 +87,7 @@ education:
     department: "Financial Mathematics"
     awards_achievements: 
   - school_name: "CFA Institute"
-    duration: "2024-present"
+    duration: "2025-present"
     degree: "CFA Candidate"
     department: "Level 1"
     awards_achievements: 
@@ -102,5 +101,5 @@ others:
       - "CASI - Level 1 Snowboard Instructor (2020)"
   - title: "Activities/Hobbies"
     bullets:
-      - "20th Century Fantasy/Sci-Fi Literature"
-      - "Gardening"      
+      - "Volunteer Math/Science Tutor"
+      - "Recreational Gardening"      

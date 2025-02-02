@@ -11,7 +11,7 @@
       "awards_achievements": null,
       "degree": "CFA Candidate",
       "department": "Level 1",
-      "duration": "2024-present",
+      "duration": "2025-present",
       "school_name": "CFA Institute"
     }
   ],
@@ -24,9 +24,14 @@
   ],
   "jarvis_projects": [
     {
-      "description": "Analyzed business requirements to define the scope and objectives of the project, ensuring alignment with operational needs. Developed a resource monitoring tool using Bash and SQL to collect and analyze cluster resource usage data in real-time, using crontab for scheduled execution. Docker was used for deployment, and PostgreSQL was implemented for data storage and analytics. Used Agile methodology to manage project timelines and ensure effective communication.",
-      "git_url": "https://github.com/jarviscanada/jarvis_data_eng_RyanBabin/tree/main/linux_sql",
+      "description": "Analyzed business requirements to define the scope and objectives of the project, ensuring alignment with operational needs. Developed a resource monitoring tool using Bash and SQL to collect and analyze cluster resource usage data in real-time, scheduled automated execution with crontab. Docker was used for deployment, and PostgreSQL was implemented for data storage and analytics. Used Agile methodology to manage project timelines and ensure effective communication.",
+      "git_url": "/linux_sql",
       "name": "Linux Cluster Resource Monitoring App"
+    },
+    {
+      "description": "Conducted business analysis to identify key challenges in customer retention and revenue growth for London Gift Shop (LGS). Utilized SQL and Python to analyze customer transaction data, deriving actionable insights for marketing strategy improvements. Documented findings and recommendations in reports, aiding stakeholders in data-driven decision-making.",
+      "git_url": "/python_data_anlytics",
+      "name": "Python Data Analytics"
     }
   ],
   "name": "Ryan Babin",
@@ -39,8 +44,8 @@
     },
     {
       "bullets": [
-        "20th Century Fantasy/Sci-Fi Literature",
-        "Gardening"
+        "Volunteer Math/Science Tutor",
+        "Recreational Gardening"
       ],
       "title": "Activities/Hobbies"
     }
@@ -48,7 +53,7 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Worked collaboratively in a Scrum environment on multiple projects, including developing SQL-based data models, automating reports, and engaging in data analytics using Python. Leveraged tools such as RDBMS, PySpark, and Agile methodologies to optimize workflows and enhance project efficiency.",
+      "description": "Works collaboratively in a Scrum environment on multiple projects, including developing SQL-based data models, automating reports, and engaging in data analytics using Python. Leverages tools such as RDBMS, PySpark, and Agile methodologies to optimize workflows and enhance project efficiency.",
       "duration": "2024-present",
       "title": "Technical Consultant"
     },
@@ -76,9 +81,9 @@
     "Technical Skills": [
       "RDBMS/SQL",
       "Data Modeling/Mapping",
-      "Data Analytics",
-      "Matlab",
-      "R"
+      "Python Data Analytics",
+      "Linux",
+      "Docker"
     ]
   },
   "summary": "I am a detail-oriented graduate with a Bachelor of Science in Financial Mathematics from Toronto Metropolitan University, passionate about leveraging data and technology to solve business challenges. With strong proficiency in SQL, Python, and R, I have a solid foundation in data analysis, process optimization, and system integration. My experience in cross-functional collaboration and customer-focused roles has honed my communication and problem-solving skills, which are essential for gathering and translating business requirements into technical solutions. I am eager to apply my analytical and technical expertise in a Business Systems Analyst role, helping organizations streamline operations and drive strategic decisions."
