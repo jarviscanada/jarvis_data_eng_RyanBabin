@@ -23,7 +23,7 @@ The project is structured as follows:
 - **Results & Insights**: The analysis results are presented in Jupyter Notebook to assist LGS in decision-making.
 
 ### Data Analytics and Wrangling
-- Jupyter Notebook: [Retail Data Analytics & Wrangling](./python_data_analytics/retail_data_wrangling.ipynb)
+- Jupyter Notebook: [Retail Data Analytics & Wrangling](./retail_data_wrangling.ipynb)
 - The data analysis helps LGS:
   - Identify high-value customers and segment them for targeted promotions.
   - Understand product demand trends to optimize inventory management.
