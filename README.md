@@ -6,14 +6,16 @@ I am a detail-oriented graduate with a Bachelor of Science in Financial Mathemat
 
 **Business Skills:** Communication & Collaboration, Data Analysis & Reporting, Agile/Scrum Methodologies, Problem-Solving & Critical Thinking, Excel (Advanced Functions, Pivot Tables, Data Analysis)
 
-**Technical Skills:** RDBMS/SQL, Data Modeling/Mapping, Data Analytics, Matlab, R
+**Technical Skills:** RDBMS/SQL, Data Modeling/Mapping, Python Data Analytics, Linux, Docker
 
 ## Jarvis Projects
 
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_RyanBabin](https://github.com/jarviscanada/jarvis_data_eng_RyanBabin)
 
 
-**Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_RyanBabin/tree/masterhttps://github.com/jarviscanada/jarvis_data_eng_RyanBabin/tree/main/linux_sql)]: Analyzed business requirements to define the scope and objectives of the project, ensuring alignment with operational needs. Developed a resource monitoring tool using Bash and SQL to collect and analyze cluster resource usage data in real-time, using crontab for scheduled execution. Docker was used for deployment, and PostgreSQL was implemented for data storage and analytics. Used Agile methodology to manage project timelines and ensure effective communication.
+**Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_RyanBabin/tree/master/linux_sql)]: Analyzed business requirements to define the scope and objectives of the project, ensuring alignment with operational needs. Developed a resource monitoring tool using Bash and SQL to collect and analyze cluster resource usage data in real-time, scheduled automated execution with crontab. Docker was used for deployment, and PostgreSQL was implemented for data storage and analytics. Used Agile methodology to manage project timelines and ensure effective communication.
+
+**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_RyanBabin/tree/master/python_data_anlytics)]: Conducted business analysis to identify key challenges in customer retention and revenue growth for London Gift Shop (LGS). Utilized SQL and Python to analyze customer transaction data, deriving actionable insights for marketing strategy improvements. Documented findings and recommendations in reports, aiding stakeholders in data-driven decision-making.
 
 
 ## Highlighted Projects
@@ -22,7 +24,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_RyanBabin]
 
 ## Professional Experiences
 
-**Technical Consultant, Jarvis (2024-present)**: Worked collaboratively in a Scrum environment on multiple projects, including developing SQL-based data models, automating reports, and engaging in data analytics using Python. Leveraged tools such as RDBMS, PySpark, and Agile methodologies to optimize workflows and enhance project efficiency.
+**Technical Consultant, Jarvis (2024-present)**: Works collaboratively in a Scrum environment on multiple projects, including developing SQL-based data models, automating reports, and engaging in data analytics using Python. Leverages tools such as RDBMS, PySpark, and Agile methodologies to optimize workflows and enhance project efficiency.
 
 **Sales Associate, Hockey Hall of Fame (2022-present)**: Cultivated long-term customer relationships, trained and mentored junior staff to drive growth and customer satisfaction, collaborated with cross-functional teams to optimize inventory management and product displays, and conducted values training to foster company values and integrated behaviours into daily work tasks.
 
@@ -32,10 +34,10 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_RyanBabin]
 ## Education
 **Toronto Metropolitan University (2019-2024)**, Bachelor of Science (Honours), Financial Mathematics
 
-**CFA Institute (2024-present)**, CFA Candidate, Level 1
+**CFA Institute (2025-present)**, CFA Candidate, Level 1
 
 
 ## Miscellaneous
 - CASI - Level 1 Snowboard Instructor (2020)
-- 20th Century Fantasy/Sci-Fi Literature
-- Gardening
+- Volunteer Math/Science Tutor
+- Recreational Gardening
