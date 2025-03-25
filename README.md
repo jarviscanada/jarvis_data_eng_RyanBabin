@@ -6,7 +6,7 @@ I am a detail-oriented graduate with a Bachelor of Science in Financial Mathemat
 
 **Business Skills:** Communication & Collaboration, Data Analysis & Reporting, Agile/Scrum Methodologies, Problem-Solving & Critical Thinking, Excel (Advanced Functions, Pivot Tables, Data Analysis)
 
-**Technical Skills:** RDBMS/SQL, Data Modeling/Mapping, Python Data Analytics, Linux, Docker
+**Technical Skills:** RDBMS/SQL, Data Modeling/Mapping, Python Data Analytics, Spark/Hadoop, Linux, Docker
 
 ## Jarvis Projects
 
@@ -24,20 +24,20 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_RyanBabin]
 
 ## Professional Experiences
 
-**Technical Consultant, Jarvis (2024-present)**: Works collaboratively in a Scrum environment on multiple projects, including developing SQL-based data models, automating reports, and engaging in data analytics using Python. Leverages tools such as RDBMS, PySpark, and Agile methodologies to optimize workflows and enhance project efficiency.
+**Technical Consultant, Jarvis (09/2024 - Present)**: Works collaboratively in a Scrum environment on multiple projects, including developing SQL-based data models, automating reports, and engaging in data analytics using Python. Leverages tools such as RDBMS, PySpark, and Agile methodologies to optimize workflows and enhance project efficiency.
 
-**Sales Associate, Hockey Hall of Fame (2022-present)**: Cultivated long-term customer relationships, trained and mentored junior staff to drive growth and customer satisfaction, collaborated with cross-functional teams to optimize inventory management and product displays, and conducted values training to foster company values and integrated behaviours into daily work tasks.
+**Sales Associate, Hockey Hall of Fame (06/2021 - 12/2024)**: Trained and mentored 10+ junior sales staff on company best practices and procedures to promote long-term growth and success. Cultivated ongoing relationships with customers and proactively engaged with potential clients to understand their needs and recommend suitable products/services.
 
-**Sales Associate, Dulux Paint (2021-2022)**: Engaged potential customers to understand their needs and provide solutions to achieve optimal results. Managed extensive challenging customer inquires to reach satisfactory resolutions successfully and received employee recognition for contribution to department achievements and fostering teamwork.
+**Outdoor Gear Specialist, Mountain Equipment Company (07/2024 - 11/2024)**: Utilized specialized knowledge to provide tailord solutions, assessing customer' specific needs and recommending products and gear to enhave their outdoor experience. Defused challenging customer situations by addressing concerns and resolving conflicts to reach mutually satisfactory outcomes.
 
 
 ## Education
-**Toronto Metropolitan University (2019-2024)**, Bachelor of Science (Honours), Financial Mathematics
+**Toronto Metropolitan University (09/2019 - 04/2024)**, Bachelor of Science (Honours), Financial Mathematics
 
-**CFA Institute (2025-present)**, CFA Candidate, Level 1
+**CFA Institute (08/2024 - Present)**, CFA Candidate, Level 1
 
 
 ## Miscellaneous
 - CASI - Level 1 Snowboard Instructor (2020)
-- Volunteer Math/Science Tutor
-- Recreational Gardening
+- Youth Dream Canada - Volunteeer STEM Tutor (2024 - Present)
+- Stationary Enthusiast

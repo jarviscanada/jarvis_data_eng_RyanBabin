@@ -4,14 +4,14 @@
       "awards_achievements": null,
       "degree": "Bachelor of Science (Honours)",
       "department": "Financial Mathematics",
-      "duration": "2019-2024",
+      "duration": "09/2019 - 04/2024",
       "school_name": "Toronto Metropolitan University"
     },
     {
       "awards_achievements": null,
       "degree": "CFA Candidate",
       "department": "Level 1",
-      "duration": "2025-present",
+      "duration": "08/2024 - Present",
       "school_name": "CFA Institute"
     }
   ],
@@ -44,8 +44,8 @@
     },
     {
       "bullets": [
-        "Volunteer Math/Science Tutor",
-        "Recreational Gardening"
+        "Youth Dream Canada - Volunteeer STEM Tutor (2024 - Present)",
+        "Stationary Enthusiast"
       ],
       "title": "Activities/Hobbies"
     }
@@ -54,20 +54,20 @@
     {
       "company": "Jarvis",
       "description": "Works collaboratively in a Scrum environment on multiple projects, including developing SQL-based data models, automating reports, and engaging in data analytics using Python. Leverages tools such as RDBMS, PySpark, and Agile methodologies to optimize workflows and enhance project efficiency.",
-      "duration": "2024-present",
+      "duration": "09/2024 - Present",
       "title": "Technical Consultant"
     },
     {
       "company": "Hockey Hall of Fame",
-      "description": "Cultivated long-term customer relationships, trained and mentored junior staff to drive growth and customer satisfaction, collaborated with cross-functional teams to optimize inventory management and product displays, and conducted values training to foster company values and integrated behaviours into daily work tasks.",
-      "duration": "2022-present",
+      "description": "Trained and mentored 10+ junior sales staff on company best practices and procedures to promote long-term growth and success. Cultivated ongoing relationships with customers and proactively engaged with potential clients to understand their needs and recommend suitable products/services.",
+      "duration": "06/2021 - 12/2024",
       "title": "Sales Associate"
     },
     {
-      "company": "Dulux Paint",
-      "description": "Engaged potential customers to understand their needs and provide solutions to achieve optimal results. Managed extensive challenging customer inquires to reach satisfactory resolutions successfully and received employee recognition for contribution to department achievements and fostering teamwork.",
-      "duration": "2021-2022",
-      "title": "Sales Associate"
+      "company": "Mountain Equipment Company",
+      "description": "Utilized specialized knowledge to provide tailord solutions, assessing customer' specific needs and recommending products and gear to enhave their outdoor experience. Defused challenging customer situations by addressing concerns and resolving conflicts to reach mutually satisfactory outcomes.",
+      "duration": "07/2024 - 11/2024",
+      "title": "Outdoor Gear Specialist"
     }
   ],
   "skills": {
@@ -82,6 +82,7 @@
       "RDBMS/SQL",
       "Data Modeling/Mapping",
       "Python Data Analytics",
+      "Spark/Hadoop",
       "Linux",
       "Docker"
     ]
